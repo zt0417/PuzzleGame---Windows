@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-BQL0DFT</Machine>
+    <WindowsUser>User</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>abf82294-6998-4455-a356-8eff5923b394</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>DCFB472D0D58E79BD36E4B620E293C69220C2BE0AD88D82D6C094DB08BE53825</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>abf82294-6998-4455-a356-8eff5923b394_1.0.0.0_neutral__bc7hbtxj2682r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>abf82294-6998-4455-a356-8eff5923b394_bc7hbtxj2682r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>abf82294-6998-4455-a356-8eff5923b394</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jiongyu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-18T07:10:48.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\bin\Debug\puzzleGame.Windows.exe">
+      <PackagePath>puzzleGame.Windows.exe</PackagePath>
+      <Modified>2016-05-06T17:17:38.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\background.png">
+      <PackagePath>Assets\background.png</PackagePath>
+      <Modified>2016-05-06T17:12:44.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\blank.png">
+      <PackagePath>Assets\blank.png</PackagePath>
+      <Modified>2015-12-16T18:31:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-18T06:43:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\puzzles.png">
+      <PackagePath>Assets\puzzles.png</PackagePath>
+      <Modified>2015-12-18T07:10:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\puzzles150.png">
+      <PackagePath>Assets\puzzles150.png</PackagePath>
+      <Modified>2015-12-18T06:43:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\puzzles30.png">
+      <PackagePath>Assets\puzzles30.png</PackagePath>
+      <Modified>2015-12-18T06:45:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\puzzles50.png">
+      <PackagePath>Assets\puzzles50.png</PackagePath>
+      <Modified>2015-12-18T06:32:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-18T06:45:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-18T07:10:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-18T06:32:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\bin\Debug\puzzleGame.Windows.xr.xml">
+      <PackagePath>puzzleGame.Windows.xr.xml</PackagePath>
+      <Modified>2015-12-18T04:51:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-12-18T06:46:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\bin\Debug\chooseMethod.xbf">
+      <PackagePath>chooseMethod.xbf</PackagePath>
+      <Modified>2016-05-06T17:17:38.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\bin\Debug\gamePage.xbf">
+      <PackagePath>gamePage.xbf</PackagePath>
+      <Modified>2015-12-18T06:46:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\bin\Debug\LeaderboardsPage.xbf">
+      <PackagePath>LeaderboardsPage.xbf</PackagePath>
+      <Modified>2015-12-18T06:46:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-05-06T17:17:38.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Puzzle game - final\puzzleGame\puzzleGame\puzzleGame.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-18T07:10:48.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

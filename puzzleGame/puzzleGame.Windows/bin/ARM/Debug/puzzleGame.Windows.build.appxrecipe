@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JIONGYUCHEN</Machine>
+    <WindowsUser>Jiongyu</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>abf82294-6998-4455-a356-8eff5923b394</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\obj\ARM\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\bin\ARM\Debug\puzzleGame.Windows.exe">
+      <PackagePath>puzzleGame.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\blank.png">
+      <PackagePath>Assets\blank.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\bin\ARM\Debug\puzzleGame.Windows.xr.xml">
+      <PackagePath>puzzleGame.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\bin\ARM\Debug\chooseMethod.xbf">
+      <PackagePath>chooseMethod.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\bin\ARM\Debug\gamePage.xbf">
+      <PackagePath>gamePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\bin\ARM\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\bin\ARM\Debug\previewPage.xbf">
+      <PackagePath>previewPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.Windows\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

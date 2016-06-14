@@ -1,0 +1,64 @@
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\puzzleGame.WindowsPhone.xr.xml
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\puzzleGame.WindowsPhone.exe
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\puzzleGame.WindowsPhone.pdb
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\puzzleGame.WindowsPhone.build.appxrecipe
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\puzzleGame.WindowsPhone.exe
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\puzzleGame.WindowsPhone.pdb
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jiongyu\Desktop\Tong\Puzzle game\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\puzzleGame.WindowsPhone.xr.xml
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\puzzleGame.WindowsPhone.exe
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\puzzleGame.WindowsPhone.pdb
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\bin\Debug\puzzleGame.WindowsPhone.build.appxrecipe
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\puzzleGame.WindowsPhone.exe
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\puzzleGame.WindowsPhone.pdb
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jiongyu\Desktop\Puzzle game - Copy\puzzleGame\puzzleGame\puzzleGame.WindowsPhone\obj\Debug\ProjectArchitectures.txt

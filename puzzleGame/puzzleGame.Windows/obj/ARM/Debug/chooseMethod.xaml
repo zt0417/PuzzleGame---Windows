@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="puzzleGame.chooseMethod"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:puzzleGame"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <MediaElement x:Name="mediaPreivew" Width="320" Height="320" Margin="834,163,212,285" />
+        <Button x:ConnectionId='1' Content="CameraCaptureUI"                               RenderTransformOrigin="5.91,5.747" Margin="935,580,0,150" />
+    </Grid>
+</Page>
+
